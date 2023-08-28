@@ -1,13 +1,12 @@
-# LG-Demand_Forecasting-P-
-# [DACON] 제주도 도로 교통량 예측 AI 경진대회 [(Link)](https://dacon.io/competitions/official/235985/leaderboard)
+# LG-Demand_Forecasting-P- [(Link)](https://dacon.io/competitions/official/235985/leaderboard)
 
 ## 🏆 Result
-- **Public score 2nd** 3.07714 | **Private score 4th** 3.0852 | **최종 3등(🏆)**
+- **Public score 3rd** 0.60745 | **Private score 3rd** 0.58947
 
 
 
 
-주최 : 제주 테크노파크, 제주특별자치도
+주최 : LG AI Research
 
 주관 : DACON
 
