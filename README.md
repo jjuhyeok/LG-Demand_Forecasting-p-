@@ -69,7 +69,7 @@ train데이터 기간에 0이 엄청 많이 나온 ID들은 실제 판매량도 
 
 이러한 모델링으로 강건한 결과를 가져왔습니다.    
 
-이러한 경험을 통해, ``` 개개인에 대한 세부적인 데이터 분석이 불가능할 때, 어떻게 접근해야 할 지와 평가지표를 어떻게 이해해서 모델링에 적용시킬 지에 대해서 깨달았습니다.```     
+이러한 경험을 통해, ```개개인에 대한 세부적인 데이터 분석이 불가능할 때, 어떻게 접근해야 할 지와 평가지표를 어떻게 이해해서 모델링에 적용시킬 지에 대해서 깨달았습니다.```     
 
 ===========================================================================
 
@@ -112,8 +112,8 @@ train데이터 기간에 0이 엄청 많이 나온 ID들은 실제 판매량도 
 ## 내가 한 일
 * Custom Imputation 아이디어 빌딩 및 개발
 * TFT, DeepAR, LSTM, LSTF DLinear, LSTF Linear, LSTF NLinear, Prophet, AutoArima, NBEATS 코드 개발
-* Custom Ensemble
-* Custom Post Processing
+* Custom Ensemble 아이디어 빌딩 및 개발
+* Custom Post Processing 아이디어 빌딩 및 개발
 * EDA
 
 
