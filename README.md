@@ -6,7 +6,7 @@
 
 
 
-주최 : LG AI Research
+주최 : **LG AI Research**
 
 주관 : DACON
 
