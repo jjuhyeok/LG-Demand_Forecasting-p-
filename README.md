@@ -68,7 +68,7 @@
 ### 문제
 - 평소 LG AI Research에서 업로드하는 AI 관련 영상을 꾸준히 보는데, 현재 Task인 수요예측 관련한 영상도 본 경험이 존재하였다.   
   양진석 리더님이 진행해주신 영상에서는   
-  ```TFT, TCN, DeepAR, N-BEATS, TabNet, LightGBM```과 같은 모델들을 Base Model로 설정하셨다고 하셔서,  
+  ``` TFT, TCN, DeepAR, N-BEATS, TabNet, LightGBM ```과 같은 모델들을 Base Model로 설정하셨다고 하셔서,  
   바로 나는 먼저 Temporal Fusion Transformer 모델을 현재 Task에 적용을 해 보았다.  
   하지만 정확도 성능이 정말 처참하였다.  
   분명 TFT 모델이 SOTA라고 하셨는데, 왜 정상적으로 작동을 하지 않는거지? 라는 의문점을 품의며 내가 하이퍼파라미터 튜닝을 너무 안한건가? 아니면 코드가 잘못된건가? 하며  
