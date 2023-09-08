@@ -135,7 +135,7 @@ train데이터 기간에 0이 엄청 많이 나온 ID들은 실제 판매량도 
   * 각 도로마다 target의 이상값이 존재 -> 사고 or 폭주로 생각
   * 요일, 시간대별로 target 값 차이 존재
   
-**2. Feature Engineering** 
+**2. Custom Imputation** 
   * 시간 feature들은 inherently cyclical 하다는 특징을 활용하기 위해 sin/cos 변환
   * 특정 피처들의 target 값의 평균으로 파생 변수 생성
   * 위,경도 값을 기준으로 clustering 하여 파생 변수 생성 -> 특정 도로는 인접한 도로읙 교통량에 영향을 미칠것이란 가설
