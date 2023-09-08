@@ -67,7 +67,7 @@
 
 ### 문제
 - 평소 LG AI Research에서 업로드하는 AI 관련 영상을 꾸준히 보는데, 현재 Task인 수요예측 관련한 영상도 본 경험이 존재하였다.   
-  양진석 리더님이 진행해주신 영상에서는
+  양진석 리더님이 진행해주신 영상에서는   
   TFT, TCN, DeepAR, N-BEATS, TabNet, LightGBM과 같은 모델들을 Base Model로 설정하셨다고 하셔서,  
   바로 나는 먼저 Temporal Fusion Transformer 모델을 현재 Task에 적용을 해 보았다.  
   하지만 정확도 성능이 정말 처참하였다.  
