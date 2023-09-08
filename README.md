@@ -109,7 +109,7 @@ train데이터 기간에 0이 엄청 많이 나온 ID들은 실제 판매량도 
 <br>
 
 
-## 내가 한 일
+## 나의 기여
 * Custom Imputation 아이디어 빌딩 및 개발
 * TFT, DeepAR, LSTM, LSTF DLinear, LSTF Linear, LSTF NLinear, Prophet, AutoArima, NBEATS 코드 개발
 * Custom Ensemble 아이디어 빌딩 및 개발
