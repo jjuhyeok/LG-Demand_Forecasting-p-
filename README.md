@@ -1,12 +1,12 @@
-# LG-Demand_Forecasting-P- [(Link)](https://dacon.io/competitions/official/236129/leaderboard)
+# LG-Demand_Forecasting [(Link)](https://dacon.io/competitions/official/236156/leaderboard)
 
 ## 🏆 Result
-- **Public score 3rd** 0.60745 | **Private score 3rd** 0.58947
+- **Public score 1st** 0.60347 | **Private score 1st** 0.58922
 
 
 
 
-주최 : LG AI Research
+주최 : LG AI Research / LG 생활건강
 
 주관 : DACON
 
